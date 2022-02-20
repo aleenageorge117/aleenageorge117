@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with becoming a FullStack Developer
 - 📫 How to reach me: aleenageorge117@gmail.com
 - 😄 Pronouns: She/Her
--     
+
+
 <img  src="https://github-readme-stats.vercel.app/api?username=aleenageorge117&include_all_commits=true&show_icons=true&theme=radical"/>
 
 
