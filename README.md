@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 🔭 I’m currently working on React projects and System Design
+- 🌱 I’m currently learning Node.js and Mongo DB
+- 👯 I’m looking to collaborate on MERN stack projects
+- 🤔 I’m looking for help with becoming a FullStack Developer
+- 📫 How to reach me: aleenageorge117@gmail.com
+- 😄 Pronouns: She/Her
+-     
+<img  src="https://github-readme-stats.vercel.app/api?username=aleenageorge117&include_all_commits=true&show_icons=true&theme=radical"/>
+
 
 <!--
 **aleenageorge117/aleenageorge117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
